@@ -1,0 +1,273 @@
+{
+    "parameterSets": {
+        "A": {
+            "deplacement_z": "10",
+            "hauteur_perimetre": "0.4",
+            "largeur_perimetre": "1.2",
+            "lettre": "A",
+            "reduction_normale": "97",
+            "rotation_Z": "0",
+            "translation_X": "9.1",
+            "translation_Y": "0.3"
+        },
+        "B": {
+            "deplacement_z": "10",
+            "hauteur_perimetre": "0.4",
+            "largeur_perimetre": "1.2",
+            "lettre": "B",
+            "reduction_normale": "98",
+            "rotation_Z": "4",
+            "translation_X": "17.1",
+            "translation_Y": "11.8"
+        },
+        "C": {
+            "deplacement_z": "10",
+            "hauteur_perimetre": "0.4",
+            "largeur_perimetre": "1.2",
+            "lettre": "C",
+            "reduction_normale": "100",
+            "rotation_Z": "0",
+            "translation_X": "0",
+            "translation_Y": "0"
+        },
+        "D": {
+            "deplacement_z": "10",
+            "hauteur_perimetre": "0.4",
+            "largeur_perimetre": "1.2",
+            "lettre": "D",
+            "reduction_normale": "101",
+            "rotation_Z": "0",
+            "translation_X": "0.3",
+            "translation_Y": "0"
+        },
+        "E": {
+            "deplacement_z": "10",
+            "hauteur_perimetre": "0.4",
+            "largeur_perimetre": "1.2",
+            "lettre": "E",
+            "reduction_normale": "100",
+            "rotation_Z": "0",
+            "translation_X": "18.5",
+            "translation_Y": "0"
+        },
+        "F": {
+            "deplacement_z": "10",
+            "hauteur_perimetre": "0.4",
+            "largeur_perimetre": "1.2",
+            "lettre": "F",
+            "reduction_normale": "99",
+            "rotation_Z": "0",
+            "translation_X": "14.9",
+            "translation_Y": "0.3"
+        },
+        "G": {
+            "deplacement_z": "10",
+            "hauteur_perimetre": "0.4",
+            "largeur_perimetre": "1.2",
+            "lettre": "G",
+            "reduction_normale": "99",
+            "rotation_Z": "0",
+            "translation_X": "0.1",
+            "translation_Y": "0.2"
+        },
+        "H": {
+            "deplacement_z": "10",
+            "hauteur_perimetre": "0.4",
+            "largeur_perimetre": "1.2",
+            "lettre": "H",
+            "reduction_normale": "100",
+            "rotation_Z": "0",
+            "translation_X": "0",
+            "translation_Y": "2.77556e-17"
+        },
+        "I": {
+            "deplacement_z": "10",
+            "hauteur_perimetre": "0.4",
+            "largeur_perimetre": "1.2",
+            "lettre": "I",
+            "reduction_normale": "135",
+            "rotation_Z": "0",
+            "translation_X": "-0.1",
+            "translation_Y": "-2.77556e-17"
+        },
+        "J": {
+            "deplacement_z": "10",
+            "hauteur_perimetre": "0.4",
+            "largeur_perimetre": "1.2",
+            "lettre": "J",
+            "reduction_normale": "100",
+            "rotation_Z": "0.4",
+            "translation_X": "0.1",
+            "translation_Y": "-2.77556e-17"
+        },
+        "K": {
+            "deplacement_z": "10",
+            "hauteur_perimetre": "0.4",
+            "largeur_perimetre": "1.2",
+            "lettre": "K",
+            "reduction_normale": "97",
+            "rotation_Z": "0.4",
+            "translation_X": "0.1",
+            "translation_Y": "0.4"
+        },
+        "M": {
+            "deplacement_z": "10",
+            "hauteur_perimetre": "0.4",
+            "largeur_perimetre": "1.2",
+            "lettre": "M",
+            "reduction_normale": "96",
+            "rotation_Z": "0.4",
+            "translation_X": "3.5",
+            "translation_Y": "0.3"
+        },
+        "O": {
+            "deplacement_z": "10",
+            "hauteur_perimetre": "0.4",
+            "largeur_perimetre": "1.2",
+            "lettre": "O",
+            "reduction_normale": "99",
+            "rotation_Z": "2.77556e-17",
+            "translation_X": "4.5",
+            "translation_Y": "0.3"
+        },
+        "P": {
+            "deplacement_z": "10",
+            "hauteur_perimetre": "0.4",
+            "largeur_perimetre": "1.2",
+            "lettre": "P",
+            "reduction_normale": "99",
+            "rotation_Z": "2.77556e-17",
+            "translation_X": "0.2",
+            "translation_Y": "0.1"
+        },
+        "Q": {
+            "deplacement_z": "10",
+            "hauteur_perimetre": "0.4",
+            "largeur_perimetre": "1.2",
+            "lettre": "Q",
+            "reduction_normale": "100",
+            "rotation_Z": "0",
+            "translation_X": "0",
+            "translation_Y": "0"
+        },
+        "R": {
+            "deplacement_z": "10",
+            "hauteur_perimetre": "0.4",
+            "largeur_perimetre": "1.2",
+            "lettre": "R",
+            "reduction_normale": "100",
+            "rotation_Z": "0",
+            "translation_X": "0",
+            "translation_Y": "0"
+        },
+        "S": {
+            "deplacement_z": "10",
+            "hauteur_perimetre": "0.4",
+            "largeur_perimetre": "1.2",
+            "lettre": "S",
+            "reduction_normale": "100",
+            "rotation_Z": "0",
+            "translation_X": "0",
+            "translation_Y": "0"
+        },
+        "T": {
+            "deplacement_z": "10",
+            "hauteur_perimetre": "0.4",
+            "largeur_perimetre": "1.2",
+            "lettre": "T",
+            "reduction_normale": "100",
+            "rotation_Z": "0",
+            "translation_X": "1.1",
+            "translation_Y": "0"
+        },
+        "U": {
+            "deplacement_z": "10",
+            "hauteur_perimetre": "0.4",
+            "largeur_perimetre": "1.2",
+            "lettre": "u",
+            "reduction_normale": "99",
+            "rotation_Z": "0",
+            "translation_X": "0.2",
+            "translation_Y": "0.2"
+        },
+        "V": {
+            "deplacement_z": "10",
+            "hauteur_perimetre": "0.4",
+            "largeur_perimetre": "1.2",
+            "lettre": "v",
+            "reduction_normale": "99",
+            "rotation_Z": "0",
+            "translation_X": "10.5",
+            "translation_Y": "0.2"
+        },
+        "w": {
+            "deplacement_z": "10",
+            "hauteur_perimetre": "0.4",
+            "largeur_perimetre": "1.3",
+            "lettre": "W",
+            "reduction_normale": "82",
+            "rotation_Z": "0.1",
+            "translation_X": "4.6",
+            "translation_Y": "8.5"
+        },
+        "x": {
+            "deplacement_z": "10",
+            "hauteur_perimetre": "0.4",
+            "largeur_perimetre": "1.3",
+            "lettre": "x",
+            "reduction_normale": "100",
+            "rotation_Z": "0",
+            "translation_X": "0",
+            "translation_Y": "0"
+        },
+        "y": {
+            "deplacement_z": "10",
+            "hauteur_perimetre": "0.4",
+            "largeur_perimetre": "1.3",
+            "lettre": "y",
+            "reduction_normale": "100",
+            "rotation_Z": "0",
+            "translation_X": "7.7",
+            "translation_Y": "0"
+        },
+        "z": {
+            "deplacement_z": "10",
+            "hauteur_perimetre": "0.4",
+            "largeur_perimetre": "1.3",
+            "lettre": "z",
+            "reduction_normale": "94",
+            "rotation_Z": "1.2",
+            "translation_X": "0.3",
+            "translation_Y": "7.7"
+        },
+        "N": {
+            "deplacement_z": "10",
+            "hauteur_perimetre": "0.4",
+            "largeur_perimetre": "1.2",
+            "lettre": "N",
+            "reduction_normale": "98",
+            "rotation_Z": "0",
+            "translation_X": "5.8",
+            "translation_Y": "0.4"
+        },
+        "L": {
+            "deplacement_z": "10",
+            "hauteur_perimetre": "0.4",
+            "largeur_perimetre": "1.2",
+            "lettre": "L",
+            "reduction_normale": "98",
+            "rotation_Z": "0",
+            "translation_X": "0.4",
+            "translation_Y": "0.1"
+        },
+        "valeurs de conception par défaut": {
+            "$fn": "100",
+            "$fs": "0.1",
+            "font_path": "Infini Picto",
+            "font_size": "100",
+            "letter": "D",
+            "thickness": "10"
+        }
+    },
+    "fileFormatVersion": "1"
+}
