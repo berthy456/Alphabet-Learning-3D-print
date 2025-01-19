@@ -1,19 +1,27 @@
-// Définir les paramètres
+// parameters
 
-largeur_perimetre = 1.5; // par défaut
+//Perimeter width
+largeur_perimetre = 1.5;
+
+//Perimeter extrusion height
 hauteur_perimetre= 0.4;
-deplacement_z = 10; // paramètre pour le déplacement sur l'axe de Z
 
+//Perimeter Z position
+deplacement_z = 10; 
 
+// Perimeter reduction
+reduction_normale = 100; 
 
-lettre = "A"; // Lettre à traiter
-translation_X = 0.1; // Décalage X
-translation_Y = 0.1; // Décalage Y
-
-reduction_normale = 100; // Reduction de la lettre normale en pourcentage
+// Perimeter rotation
 rotation_Z = 0.1; // Rotation Z
 
-// 
+// Letter to compute
+lettre = "A"; 
+// X offset
+translation_X = 0.1; 
+// Y offset
+translation_Y = 0.1; 
+
 
 // Afficher l'objet avec la rehausse
 union() {
@@ -23,6 +31,7 @@ union() {
   color("blue")
     translate([translation_X, translation_Y, 0])
       rotate([0, 0, -rotation_Z])
+      //you can adjust here to flatten the perimeter shape Like for W I reduced X by /80 instead of /100...
         scale([reduction_normale/100, reduction_normale/100, 1])
         rehausse_perimetre()  ;
   }

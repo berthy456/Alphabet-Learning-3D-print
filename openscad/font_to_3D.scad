@@ -1,41 +1,41 @@
 $fn = 140;
 $fs = 0.1;
 
-// Chemin vers la police OTF
+// TTF ,OTF font name or path
 font_path = "Infini Picto";
 
-// Taille de la police
-font_size = 34;
+// Font size
+font_size = 32;
 
-// Épaisseur de l'extrusion
+// Letter extrusion thickness
 thickness = 10;
 
-// Lettre à afficher
+// Letter
 letter = "D";
   font = str(font_path);
   
 
-// Module pour afficher la lettre 2D
+// 2D Letter
 module letter_2d(letter) {
-  // Importer la police OTF
+  // Import font
   font = str(font_path);
 
-  // Afficher la lettre 2D
+  // show 2d letter
   text(letter, font=font, size=font_size);
 }
 
-// Module pour afficher la lettre 3D
+// 3D Letter
 module letter_3d(letter) {
-  // Importer la police OTF
+  // Import OTF font
   font = str(font_path);
 
-  // Extruder la lettre 2D pour créer la forme 3D
+  // Extrusion to create 3D
   linear_extrude(height = thickness) {
     text(letter, font=font, size=font_size);
   }
 }
 
-// Afficher la lettre 3D
+// Show 3D
 render() {
   letter_3d(letter);
 }
