@@ -4,9 +4,9 @@ Some efforts to design the 26 latin letters in 3D using a pictographic font.
 
 This is a work in progress maybe the design will evolve and i will add colors.
 
-Based on Infini font by Sandrine Nugue.
+Based on the beautifull Infini font by Sandrine Nugue.
 
-Many thanks to her for this beautiful font and having published it under Creative Commons CC BY-ND licensing!
+Many thanks to her for this work and having published it under Creative Commons CC BY-ND licensing!
 
 ![Sample ](/infini-font/infinipicto3.jpg)
 
