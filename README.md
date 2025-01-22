@@ -1,11 +1,13 @@
 # Alphabet-Learning-3D-print
 
-
-Now bicolor print is possible using Relief folder's files!
-
 Some efforts to design the 26 latin letters in 3D using a pictographic font.
 
-This is a work in progress maybe the design will evolve and i will add colors.
+# Just print the "Relief" folder's 26 STLs!
+Can be printed in 2 colors using a pause on the last (2) layer.
+
+
+
+This is a work in progress, maybe the design will evolve and i will add colors.
 
 Based on the beautifull Infini font by Sandrine Nugue.
 
