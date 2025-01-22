@@ -230,16 +230,6 @@
             "translation_X": "0",
             "translation_Y": "0"
         },
-        "z": {
-            "deplacement_z": "10",
-            "hauteur_perimetre": "0.4",
-            "largeur_perimetre": "1.3",
-            "lettre": "z",
-            "reduction_normale": "94",
-            "rotation_Z": "1.2",
-            "translation_X": "0.3",
-            "translation_Y": "7.7"
-        },
         "N": {
             "deplacement_z": "10",
             "hauteur_perimetre": "0.4",
@@ -269,6 +259,16 @@
             "rotation_Z": "0",
             "translation_X": "7.7",
             "translation_Y": "0"
+        },
+        "z": {
+            "deplacement_z": "0",
+            "hauteur_perimetre": "10.4",
+            "largeur_perimetre": "1.5",
+            "lettre": "Z",
+            "reduction_normale": "92",
+            "rotation_Z": "0.1",
+            "translation_X": "1.5",
+            "translation_Y": "7.8"
         }
     },
     "fileFormatVersion": "1"
