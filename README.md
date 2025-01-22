@@ -1,5 +1,8 @@
 # Alphabet-Learning-3D-print
 
+
+Now bicolor print is possible using Relief folder's files!
+
 Some efforts to design the 26 latin letters in 3D using a pictographic font.
 
 This is a work in progress maybe the design will evolve and i will add colors.
@@ -14,7 +17,7 @@ https://www.cnap.fr/sites/infini/
 
 https://inkstitch.org/fr/fonts/infinipicto/
 
-Just download and print either the "letter-picto" or "letter-relief" folder's STL files.
+Just download and print either the "Picto letter" or "Relief letter" folder's STL files.
 
 My work is mainly redesigning the "relief" folder's files, to make the letters a little bit easier to read.
 The last 0.4 mm of the "relief" files are supposed to be printed in another color, for readability too.
