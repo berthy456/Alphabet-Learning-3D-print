@@ -13,7 +13,7 @@ This is a work in progress, maybe the design will evolve and i will add colors.
 
 Based on the beautifull Infini font by Sandrine Nugue.
 
-Many thanks to her for this work and having published it under Creative Commons CC BY-ND licensing!
+Many thanks to her for this work!
 
 ![Sample ](/infini-font/infinipicto3.jpg)
 
