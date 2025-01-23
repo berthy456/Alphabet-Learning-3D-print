@@ -2,6 +2,8 @@
 
 Some efforts to design the 26 latin letters in 3D using a pictographic font.
 
+Pictograms are mostly representing french objects (Dé for D, Usine for U). I 'd be nice to have english too if someone have an idea.
+
 # Just print the "Relief" folder's 26 STLs!
 Can be printed in 2 colors using a pause on the last (2) layer.
 
