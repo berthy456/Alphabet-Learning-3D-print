@@ -18,10 +18,11 @@ https://www.cnap.fr/sites/infini/
 Many thanks to her for this work!
 
 Sample of what Françoise Lapierre Baillet done for ink/stitch (inkscape stitching plugin), applying some personalisation and colors to the fonts, make it very cool too:
+
+https://inkstitch.org/fr/fonts/infinipicto/
 ![Sample ](/infini-font/infinipicto3.jpg)
 
 
-https://inkstitch.org/fr/fonts/infinipicto/
 
 Just download and print either the "Picto letter" or "Relief letter" folder's STL files.
 
