@@ -1,6 +1,6 @@
 # Alphabet-Learning-3D-print
 
-Some efforts to design the 26 latin letters in 3D using a pictographic font.
+Inspired by a pictographic font, I decided to make it printable, mostly because it could be usefull for learning children.
 
 Pictograms are mostly representing french objects (Dé for D, Usine for U). I 'd be nice to have english too but I don't know any font like this. Feel free to send me a message if you know a similar work for english words.
 
