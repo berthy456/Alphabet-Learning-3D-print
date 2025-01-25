@@ -9,7 +9,7 @@ Can be printed in 2 colors using a pause on the last (2) layer.
 
 This is a work in progress, maybe the design will evolve and i will add colors.
 
-Based on the beautifull Infini font by Sandrine Nugue for the CNAP.
+Based on the beautiful Infini font by Sandrine Nugue for the CNAP.
 
 https://www.sandrinenugue.com/
 
