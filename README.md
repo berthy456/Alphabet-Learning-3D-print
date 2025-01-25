@@ -1,8 +1,8 @@
 # Alphabet-Learning-3D-print
 
-Inspired by a pictographic font, I decided to make it printable, mostly because it could be usefull for learning children.
+Inspired by the pictograms hidden in "l'infini" font, I decided to make them printable, mostly because it could be usefull for learning children.
 
-Pictograms are mostly representing french objects (Dé for D, Usine for U). I 'd be nice to have english too but I don't know any font like this. Feel free to send me a message if you know a similar work for english words.
+Please note that pictograms are mostly representing french objects (Arrosoir for A, Dé for D, Usine for U, etc..). I 'd be nice to have english too but I don't know any font like this. Feel free to send me a message if you know a similar work for english words.
 
 # Just print the "Relief" folder's 26 STLs!
 Can be printed in 2 colors using a pause on the last (2) layer.
