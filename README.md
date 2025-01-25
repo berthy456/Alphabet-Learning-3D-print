@@ -10,13 +10,14 @@ Can be printed in 2 colors using a pause on the last (2) layer.
 This is a work in progress, maybe the design will evolve and i will add colors.
 
 Based on the beautifull Infini font by Sandrine Nugue for the CNAP.
+
 https://www.sandrinenugue.com/
+
 https://www.cnap.fr/sites/infini/
 
 Many thanks to her for this work!
 
-Sample of what the ink/stich team done, applying some colors to the fonts make it nice too.
-
+Sample of what Françoise Lapierre Baillet done for ink/stitch (inkscape stitching plugin), applying some personalisation and colors to the fonts, make it very cool too:
 ![Sample ](/infini-font/infinipicto3.jpg)
 
 
